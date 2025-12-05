@@ -14,7 +14,6 @@ It performs data cleaning, visualization and statistical insights generation.
 | `weather_analysis.py` | Main Python code |
 | `weather.csv` | Raw dataset |
 | `cleaned_weather.csv` | Cleaned dataset (auto-generated) |
-| `REPORT.md` | Final summarized report |
 | `/plots/*.png` | Visual graphs generated |
 
 ---
